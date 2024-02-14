@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\bin\Debug\net8.0\VeriTipiSınırları.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\bin\Debug\net8.0\VeriTipiSınırları.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\bin\Debug\net8.0\VeriTipiSınırları.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\bin\Debug\net8.0\VeriTipiSınırları.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\bin\Debug\net8.0\VeriTipiSınırları.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\refint\VeriTipiSınırları.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\VeriTipiSınırları.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSınırları\obj\Debug\net8.0\ref\VeriTipiSınırları.dll

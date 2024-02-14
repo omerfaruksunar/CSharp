@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\bin\Debug\net8.0\VeriTipiSinirlari.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\bin\Debug\net8.0\VeriTipiSinirlari.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\bin\Debug\net8.0\VeriTipiSinirlari.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\bin\Debug\net8.0\VeriTipiSinirlari.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\bin\Debug\net8.0\VeriTipiSinirlari.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\refint\VeriTipiSinirlari.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\VeriTipiSinirlari.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\VeriTipiSinirlari\obj\Debug\net8.0\ref\VeriTipiSinirlari.dll

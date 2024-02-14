@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\bin\Debug\net8.0\DynamicSample.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\bin\Debug\net8.0\DynamicSample.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\bin\Debug\net8.0\DynamicSample.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\bin\Debug\net8.0\DynamicSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\bin\Debug\net8.0\DynamicSample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\refint\DynamicSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\DynamicSample.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DynamicSample\obj\Debug\net8.0\ref\DynamicSample.dll

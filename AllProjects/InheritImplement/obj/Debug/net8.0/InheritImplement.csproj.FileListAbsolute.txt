@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\bin\Debug\net8.0\InheritImplement.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\bin\Debug\net8.0\InheritImplement.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\bin\Debug\net8.0\InheritImplement.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\bin\Debug\net8.0\InheritImplement.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\bin\Debug\net8.0\InheritImplement.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\refint\InheritImplement.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\InheritImplement.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\InheritImplement\obj\Debug\net8.0\ref\InheritImplement.dll

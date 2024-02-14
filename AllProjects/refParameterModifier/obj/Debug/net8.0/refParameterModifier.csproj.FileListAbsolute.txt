@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\bin\Debug\net8.0\refParameterModifier.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\bin\Debug\net8.0\refParameterModifier.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\bin\Debug\net8.0\refParameterModifier.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\bin\Debug\net8.0\refParameterModifier.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\bin\Debug\net8.0\refParameterModifier.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refint\refParameterModifier.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\refParameterModifier.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\refParameterModifier\obj\Debug\net8.0\ref\refParameterModifier.dll

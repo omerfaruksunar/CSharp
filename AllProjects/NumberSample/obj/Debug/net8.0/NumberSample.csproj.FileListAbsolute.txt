@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\bin\Debug\net8.0\NumberSample.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\bin\Debug\net8.0\NumberSample.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\bin\Debug\net8.0\NumberSample.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\bin\Debug\net8.0\NumberSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\bin\Debug\net8.0\NumberSample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\refint\NumberSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\NumberSample.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\NumberSample\obj\Debug\net8.0\ref\NumberSample.dll

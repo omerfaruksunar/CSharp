@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\bin\Debug\net8.0\Example2.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\bin\Debug\net8.0\Example2.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\bin\Debug\net8.0\Example2.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\bin\Debug\net8.0\Example2.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\bin\Debug\net8.0\Example2.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\refint\Example2.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\Example2.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\Example2\obj\Debug\net8.0\ref\Example2.dll

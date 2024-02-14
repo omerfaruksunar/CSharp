@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\bin\Debug\net8.0\DateOnlySample.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\bin\Debug\net8.0\DateOnlySample.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\bin\Debug\net8.0\DateOnlySample.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\bin\Debug\net8.0\DateOnlySample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\bin\Debug\net8.0\DateOnlySample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\refint\DateOnlySample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\DateOnlySample.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DateOnlySample\obj\Debug\net8.0\ref\DateOnlySample.dll

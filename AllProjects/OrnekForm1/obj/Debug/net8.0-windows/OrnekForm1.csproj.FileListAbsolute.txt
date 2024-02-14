@@ -1,0 +1,16 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\bin\Debug\net8.0-windows\OrnekForm1.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\bin\Debug\net8.0-windows\OrnekForm1.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\bin\Debug\net8.0-windows\OrnekForm1.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\bin\Debug\net8.0-windows\OrnekForm1.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\bin\Debug\net8.0-windows\OrnekForm1.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.Form1.resources
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.csproj.GenerateResource.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\refint\OrnekForm1.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\OrnekForm1.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\OrnekForm1\obj\Debug\net8.0-windows\ref\OrnekForm1.dll

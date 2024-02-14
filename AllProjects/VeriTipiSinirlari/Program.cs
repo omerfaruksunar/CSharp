@@ -1,0 +1,10 @@
+﻿using static System.Console;
+nint intPtrLook = nint.MaxValue;
+string nintStr = intPtrLook.ToString("NO");
+WriteLine(nintStr);
+WriteLine($"{nintStr.Length} karakter içeriyor.");
+nuint uintPtrLook = nuint.MaxValue;
+string nuintStr = uintPtrLook.ToString("NO");
+WriteLine(nuintStr);
+WriteLine($"{nuintStr.Length} karakter içeriyor.");
+ReadLine();

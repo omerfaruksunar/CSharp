@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\bin\Debug\net8.0\DegiskenSteakHeap.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\bin\Debug\net8.0\DegiskenSteakHeap.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\bin\Debug\net8.0\DegiskenSteakHeap.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\bin\Debug\net8.0\DegiskenSteakHeap.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\bin\Debug\net8.0\DegiskenSteakHeap.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\refint\DegiskenSteakHeap.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\DegiskenSteakHeap.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\DegiskenSteakHeap\obj\Debug\net8.0\ref\DegiskenSteakHeap.dll

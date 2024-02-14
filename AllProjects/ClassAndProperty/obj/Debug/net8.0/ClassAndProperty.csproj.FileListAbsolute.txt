@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\bin\Debug\net8.0\ClassAndProperty.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\bin\Debug\net8.0\ClassAndProperty.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\bin\Debug\net8.0\ClassAndProperty.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\bin\Debug\net8.0\ClassAndProperty.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\bin\Debug\net8.0\ClassAndProperty.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\refint\ClassAndProperty.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ClassAndProperty.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ClassAndProperty\obj\Debug\net8.0\ref\ClassAndProperty.dll

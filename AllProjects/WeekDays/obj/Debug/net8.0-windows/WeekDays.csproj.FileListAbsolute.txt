@@ -1,0 +1,16 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\bin\Debug\net8.0-windows\WeekDays.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\bin\Debug\net8.0-windows\WeekDays.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\bin\Debug\net8.0-windows\WeekDays.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\bin\Debug\net8.0-windows\WeekDays.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\bin\Debug\net8.0-windows\WeekDays.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.Ornek2.resources
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.csproj.GenerateResource.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\refint\WeekDays.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\WeekDays.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\WeekDays\obj\Debug\net8.0-windows\ref\WeekDays.dll

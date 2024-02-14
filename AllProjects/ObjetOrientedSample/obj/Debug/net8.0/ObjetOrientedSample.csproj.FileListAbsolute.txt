@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\bin\Debug\net8.0\ObjetOrientedSample.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\bin\Debug\net8.0\ObjetOrientedSample.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\bin\Debug\net8.0\ObjetOrientedSample.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\bin\Debug\net8.0\ObjetOrientedSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\bin\Debug\net8.0\ObjetOrientedSample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\refint\ObjetOrientedSample.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ObjetOrientedSample.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\ObjetOrientedSample\obj\Debug\net8.0\ref\ObjetOrientedSample.dll

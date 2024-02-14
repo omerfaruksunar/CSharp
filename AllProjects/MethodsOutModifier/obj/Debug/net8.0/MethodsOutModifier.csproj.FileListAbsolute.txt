@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\bin\Debug\net8.0\MethodsOutModifier.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\bin\Debug\net8.0\MethodsOutModifier.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\bin\Debug\net8.0\MethodsOutModifier.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\bin\Debug\net8.0\MethodsOutModifier.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\bin\Debug\net8.0\MethodsOutModifier.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\refint\MethodsOutModifier.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\MethodsOutModifier.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\MethodsOutModifier\obj\Debug\net8.0\ref\MethodsOutModifier.dll

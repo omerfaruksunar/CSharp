@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\bin\Debug\net8.0\SimplifiedOrderingWith.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\bin\Debug\net8.0\SimplifiedOrderingWith.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\bin\Debug\net8.0\SimplifiedOrderingWith.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\bin\Debug\net8.0\SimplifiedOrderingWith.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\bin\Debug\net8.0\SimplifiedOrderingWith.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\refint\SimplifiedOrderingWith.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\SimplifiedOrderingWith.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\AllProjects\SimplifiedOrderingWith\obj\Debug\net8.0\ref\SimplifiedOrderingWith.dll
