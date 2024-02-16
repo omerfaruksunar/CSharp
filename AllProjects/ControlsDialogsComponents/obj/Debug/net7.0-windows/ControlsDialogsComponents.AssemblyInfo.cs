@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlsDialogsComponents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8774bbfe539914cd50b689035336327313440ebf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+560039453b77bf5785a62ec36106b6d622c05929")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlsDialogsComponents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlsDialogsComponents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
