@@ -33,21 +33,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriTipiSınırları", "Ver
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParseSample", "TryParseSample\TryParseSample.csproj", "{E7BE40C1-7DDC-4C22-B4FD-21EA1699048B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsOperator", "AsOperator\AsOperator.csproj", "{51E02840-4FE5-493B-81EA-D3BB23003FDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsOperator", "AsOperator\AsOperator.csproj", "{51E02840-4FE5-493B-81EA-D3BB23003FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateOnlySample", "DateOnlySample\DateOnlySample.csproj", "{8F99E801-27C1-4E32-B3F4-27C17079CF5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateOnlySample", "DateOnlySample\DateOnlySample.csproj", "{8F99E801-27C1-4E32-B3F4-27C17079CF5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipiSinirlari", "VeriTipiSinirlari\VeriTipiSinirlari.csproj", "{00BFF46E-1E89-4141-BE97-D65C43129344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriTipiSinirlari", "VeriTipiSinirlari\VeriTipiSinirlari.csproj", "{00BFF46E-1E89-4141-BE97-D65C43129344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicSample", "DynamicSample\DynamicSample.csproj", "{C2DEC0F1-35CF-4BDA-BB93-4467B400E966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicSample", "DynamicSample\DynamicSample.csproj", "{C2DEC0F1-35CF-4BDA-BB93-4467B400E966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenSteakHeap", "DegiskenSteakHeap\DegiskenSteakHeap.csproj", "{E7274B88-CEB0-4B38-BFFF-2AC25C9B36F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegiskenSteakHeap", "DegiskenSteakHeap\DegiskenSteakHeap.csproj", "{E7274B88-CEB0-4B38-BFFF-2AC25C9B36F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refParameterModifier", "refParameterModifier\refParameterModifier.csproj", "{57D1F10C-876E-4ECA-A45C-72349234FD62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "refParameterModifier", "refParameterModifier\refParameterModifier.csproj", "{57D1F10C-876E-4ECA-A45C-72349234FD62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsOutModifier", "MethodsOutModifier\MethodsOutModifier.csproj", "{A195532F-B0CC-4A5C-AE07-A9C890FDAD14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsOutModifier", "MethodsOutModifier\MethodsOutModifier.csproj", "{A195532F-B0CC-4A5C-AE07-A9C890FDAD14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsParametersVoidReturn", "MethodsParametersVoidReturn\MethodsParametersVoidReturn.csproj", "{C4F32C0B-5F13-4943-B315-B6B94262A996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsParametersVoidReturn", "MethodsParametersVoidReturn\MethodsParametersVoidReturn.csproj", "{C4F32C0B-5F13-4943-B315-B6B94262A996}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorOrnek1", "BlazorOrnek1\BlazorOrnek1.csproj", "{27249DB2-0A0F-41BD-973B-54CE4F01BEBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{B8422C50-881D-43B2-89DD-D76112F052CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchStatementCase", "SwitchStatementCase\SwitchStatementCase.csproj", "{76291866-DA5C-45CE-A075-60A8D54FEE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsDialogsComponents", "ControlsDialogsComponents\ControlsDialogsComponents.csproj", "{A757818F-7843-40AF-A887-B028BCE09351}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +155,22 @@ Global
 		{C4F32C0B-5F13-4943-B315-B6B94262A996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4F32C0B-5F13-4943-B315-B6B94262A996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4F32C0B-5F13-4943-B315-B6B94262A996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27249DB2-0A0F-41BD-973B-54CE4F01BEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27249DB2-0A0F-41BD-973B-54CE4F01BEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27249DB2-0A0F-41BD-973B-54CE4F01BEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27249DB2-0A0F-41BD-973B-54CE4F01BEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8422C50-881D-43B2-89DD-D76112F052CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8422C50-881D-43B2-89DD-D76112F052CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8422C50-881D-43B2-89DD-D76112F052CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8422C50-881D-43B2-89DD-D76112F052CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76291866-DA5C-45CE-A075-60A8D54FEE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76291866-DA5C-45CE-A075-60A8D54FEE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76291866-DA5C-45CE-A075-60A8D54FEE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76291866-DA5C-45CE-A075-60A8D54FEE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A757818F-7843-40AF-A887-B028BCE09351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A757818F-7843-40AF-A887-B028BCE09351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A757818F-7843-40AF-A887-B028BCE09351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A757818F-7843-40AF-A887-B028BCE09351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

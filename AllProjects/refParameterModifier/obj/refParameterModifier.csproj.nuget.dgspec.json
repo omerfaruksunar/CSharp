@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj": {}
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj": {
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj",
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj",
         "projectName": "refParameterModifier",
-        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj",
+        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\refParameterModifier\\refParameterModifier.csproj",
         "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\refParameterModifier\\obj\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\refParameterModifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

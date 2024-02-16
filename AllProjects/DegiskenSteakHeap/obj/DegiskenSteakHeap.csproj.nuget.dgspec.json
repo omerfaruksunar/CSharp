@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj": {}
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj": {
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj",
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj",
         "projectName": "DegiskenSteakHeap",
-        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj",
+        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DegiskenSteakHeap\\DegiskenSteakHeap.csproj",
         "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DegiskenSteakHeap\\obj\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DegiskenSteakHeap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

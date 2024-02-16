@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj": {}
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj": {
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj",
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj",
         "projectName": "DynamicSample",
-        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj",
+        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DynamicSample\\DynamicSample.csproj",
         "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DynamicSample\\obj\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DynamicSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

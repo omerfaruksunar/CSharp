@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\WeekDays\\WeekDays.csproj",
+      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\WeekDays\\WeekDays.csproj",
       "projectName": "WeekDays",
-      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\WeekDays\\WeekDays.csproj",
+      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\WeekDays\\WeekDays.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\WeekDays\\obj\\",
+      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\WeekDays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

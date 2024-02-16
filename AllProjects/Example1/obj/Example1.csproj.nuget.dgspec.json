@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\Example1\\Example1.csproj": {}
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\Example1\\Example1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\Example1\\Example1.csproj": {
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\Example1\\Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\Example1\\Example1.csproj",
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\Example1\\Example1.csproj",
         "projectName": "Example1",
-        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\Example1\\Example1.csproj",
+        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\Example1\\Example1.csproj",
         "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\Example1\\obj\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\Example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7H+Uh7D9556+aVnLjnTS89SBn2teOVG46du52w7S34phJVwkbx4vG4eEVQMdKaSXG+jPcw22LHXcyyJQELeaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\BlazorOrnek1\\BlazorOrnek1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omerfaruksunar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

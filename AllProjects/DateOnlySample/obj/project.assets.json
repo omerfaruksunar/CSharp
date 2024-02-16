@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DateOnlySample\\DateOnlySample.csproj",
+      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DateOnlySample\\DateOnlySample.csproj",
       "projectName": "DateOnlySample",
-      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DateOnlySample\\DateOnlySample.csproj",
+      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DateOnlySample\\DateOnlySample.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\DateOnlySample\\obj\\",
+      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\DateOnlySample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

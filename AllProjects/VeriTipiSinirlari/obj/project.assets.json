@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\VeriTipiSinirlari\\VeriTipiSinirlari.csproj",
+      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\VeriTipiSinirlari\\VeriTipiSinirlari.csproj",
       "projectName": "VeriTipiSinirlari",
-      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\VeriTipiSinirlari\\VeriTipiSinirlari.csproj",
+      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\VeriTipiSinirlari\\VeriTipiSinirlari.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\AllProjects\\VeriTipiSinirlari\\obj\\",
+      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\AllProjects\\VeriTipiSinirlari\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",

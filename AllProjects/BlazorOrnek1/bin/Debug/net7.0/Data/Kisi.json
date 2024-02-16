@@ -1,0 +1,25 @@
+{
+    "Data": [
+        {
+            "Adi": "Ömer",
+            "Soyadi": "SUNAR",
+            "Cinsiyeti": "Erkek",
+            "DogumYeri": "Kütahya",
+            "DogumYili": 2001
+        },
+        {
+            "Adi": "Yusuf",
+            "Soyadi": "SUNAR",
+            "Cinsiyeti": "Erkek",
+            "DogumYeri": "Kütahya",
+            "DogumYili": 2012
+        },
+        {
+            "Adi": "Ahmet",
+            "Soyadi": "SUNAR",
+            "Cinsiyeti": "Erkek",
+            "DogumYeri": "Kütahya",
+            "DogumYili": 1977
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\bin\Debug\net8.0\SwitchStatementCase.exe
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\bin\Debug\net8.0\SwitchStatementCase.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\bin\Debug\net8.0\SwitchStatementCase.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\bin\Debug\net8.0\SwitchStatementCase.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\bin\Debug\net8.0\SwitchStatementCase.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.sourcelink.json
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\refint\SwitchStatementCase.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\SwitchStatementCase.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\AllProjects\SwitchStatementCase\obj\Debug\net8.0\ref\SwitchStatementCase.dll
