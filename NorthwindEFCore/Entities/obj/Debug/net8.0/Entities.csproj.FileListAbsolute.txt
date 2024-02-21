@@ -1,0 +1,14 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\NorthwindEFCore\Entities\obj\Debug\net8.0\ref\Entities.dll
