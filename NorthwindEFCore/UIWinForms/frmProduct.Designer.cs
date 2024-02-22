@@ -154,6 +154,7 @@
 			btnYeni.TabIndex = 19;
 			btnYeni.Text = "Yeni";
 			btnYeni.UseVisualStyleBackColor = false;
+			btnYeni.Click += btnYeni_Click;
 			// 
 			// rdbDiscontinued
 			// 
@@ -253,6 +254,9 @@
 			btnGuncelle.TabIndex = 13;
 			btnGuncelle.Text = "Güncelle";
 			btnGuncelle.UseVisualStyleBackColor = false;
+			btnGuncelle.Click += btnGuncelle_Click;
+			btnGuncelle.MouseEnter += btnGuncelle_MouseEnter;
+			btnGuncelle.MouseMove += btnGuncelle_MouseMove;
 			// 
 			// btnSil
 			// 
@@ -264,6 +268,9 @@
 			btnSil.TabIndex = 14;
 			btnSil.Text = "Sil";
 			btnSil.UseVisualStyleBackColor = false;
+			btnSil.Click += btnSil_Click;
+			btnSil.MouseEnter += btnSil_MouseEnter;
+			btnSil.MouseMove += btnSil_MouseMove;
 			// 
 			// btnEkle
 			// 
@@ -275,6 +282,9 @@
 			btnEkle.TabIndex = 12;
 			btnEkle.Text = "Ekle";
 			btnEkle.UseVisualStyleBackColor = false;
+			btnEkle.Click += btnEkle_Click;
+			btnEkle.MouseEnter += btnEkle_MouseEnter;
+			btnEkle.MouseMove += btnEkle_MouseMove;
 			// 
 			// txtUnitsInStock
 			// 
@@ -390,6 +400,7 @@
 			btnTumu.TabIndex = 2;
 			btnTumu.Text = "Tümünü Görüntüle";
 			btnTumu.UseVisualStyleBackColor = false;
+			btnTumu.Click += btnTumu_Click;
 			// 
 			// txtAra
 			// 
@@ -398,6 +409,7 @@
 			txtAra.Name = "txtAra";
 			txtAra.Size = new Size(147, 27);
 			txtAra.TabIndex = 1;
+			txtAra.TextChanged += txtAra_TextChanged;
 			// 
 			// lblUrunAra
 			// 
@@ -420,6 +432,7 @@
 			dgwProducts.RowTemplate.Height = 25;
 			dgwProducts.Size = new Size(1334, 380);
 			dgwProducts.TabIndex = 30;
+			dgwProducts.CellClick += dgwProducts_CellClick;
 			// 
 			// grbCategories
 			// 
@@ -465,6 +478,7 @@
 			cmbCategories.Name = "cmbCategories";
 			cmbCategories.Size = new Size(138, 28);
 			cmbCategories.TabIndex = 0;
+			cmbCategories.SelectionChangeCommitted += cmbCategories_SelectionChangeCommitted;
 			// 
 			// frmProduct
 			// 

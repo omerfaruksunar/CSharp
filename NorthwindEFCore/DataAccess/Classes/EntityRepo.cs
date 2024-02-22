@@ -40,12 +40,12 @@ public class EntityRepo<T> : IEntityRepo<T>
 			await AddAsync(x);
 		}
 	}
-	public async Task Update(T entity)
+	public async Task UpdateAsync(T entity)
 		=> await CUD(entity, EntityState.Modified);
-	public async Task Remove(T entity)
+	public async Task RemoveAsync(T entity)
 		=> await CUD (entity, EntityState.Deleted);
 	public async Task RemoveRange(IQueryable<T> entities)
-		=> entities.ToList().ForEach(async x => await Remove(x));
+		=> entities.ToList().ForEach(async x => await RemoveAsync(x));
 		//=> await entities.ForEachAsync(async x => await Remove(x));
 
 }

@@ -4236,11 +4236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIWinForms\\UIWinForms.csproj",
+      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIWinForms\\UIWinForms.csproj",
       "projectName": "UIWinForms",
-      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIWinForms\\UIWinForms.csproj",
+      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIWinForms\\UIWinForms.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIWinForms\\obj\\",
+      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIWinForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4258,11 +4258,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"
+            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"
             }
           }
         }

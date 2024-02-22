@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O97SFjpdQ1dIF539hioXOEzBE7i/JexmXWE0Gmvr9j3O8kpalhEKO/7KJQbsB+9lrU+VRYyi5+BnKvBfNtu0sA==",
+  "dgSpecHash": "tWZX2kO0SXN24Yyg3D4yoyoFcucxbt2lLq1gyebgpzvJtYaS8XSBvD6SvWmK/AeZNwlqZpmDNbDq4Y81a7sKAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

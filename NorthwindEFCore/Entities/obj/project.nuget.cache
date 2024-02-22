@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knILEhoBxBeUHFkVuI3aZ7TwjnW0+2lra3rz1N5g+gzL6ZNYshDDVdEwgOX/1ostYUX/KAkMLqUc9Yjdsv+M7A==",
+  "dgSpecHash": "Dk92tOJ3Wq4Pift9kqLbpLOEfnuJVNT+cvqQiGpZLXv4boxb84KtotXD7XJviJSAlXCzsf8oM1i/XY00QTyoNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

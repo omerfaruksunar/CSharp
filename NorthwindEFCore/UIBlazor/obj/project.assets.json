@@ -5083,11 +5083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
       "projectName": "UIBlazor",
-      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
+      "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\",
+      "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5105,11 +5105,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"
+            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"
             }
           }
         }

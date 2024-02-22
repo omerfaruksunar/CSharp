@@ -12,8 +12,8 @@ public interface IEntityRepo<T>
     Task<bool> AnyAsync(Expression<Func<T, bool>> predicate);
     Task AddAsync(T entity);
     Task AddRangeAsync(IQueryable<T> entities);
-    Task Update(T entity);
-    Task Remove(T entity);
+    Task UpdateAsync(T entity);
+    Task RemoveAsync(T entity);
     Task RemoveRange(IQueryable<T> entities);
 
 

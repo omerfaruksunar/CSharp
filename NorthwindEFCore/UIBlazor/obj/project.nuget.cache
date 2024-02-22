@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/aG+adLlxEhxN6gFXFHvg5icQAQVtxf717Gy2VTjtCaekl9ibs7iClC+eUhZTUb5q2q8eXq0ldeDeKMewcG3w==",
+  "dgSpecHash": "ZGgsXs074C7T+ZMRQyRMFMzesQuriS22mckQTqeUsn0AUnCYDyxAXUKIPjjXfO+FrgaY1+Lot0YlWreA0+XLYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
+  "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

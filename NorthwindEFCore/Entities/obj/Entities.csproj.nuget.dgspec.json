@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {}
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
