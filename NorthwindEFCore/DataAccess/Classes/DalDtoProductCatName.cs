@@ -37,5 +37,6 @@ public class DalDtoProductCatName
 			   UnitsInStock = pr.UnitsInStock
 		   };
 	public IQueryable<Product> GetProductsByCategory
-		(int catID) => Where(x => x.CategoryId == catID);
+		(int catID) => Where(x => x.CategoryId == catID).Include(x => x.Category)
+					  .Include(x => x.Supplier);
 }

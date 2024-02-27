@@ -255,7 +255,7 @@
 			btnGuncelle.Text = "Güncelle";
 			btnGuncelle.UseVisualStyleBackColor = false;
 			btnGuncelle.Click += btnGuncelle_Click;
-			btnGuncelle.MouseEnter += btnGuncelle_MouseEnter;
+			//btnGuncelle.MouseEnter += btnGuncelle_MouseEnter;
 			btnGuncelle.MouseMove += btnGuncelle_MouseMove;
 			// 
 			// btnSil
@@ -269,7 +269,7 @@
 			btnSil.Text = "Sil";
 			btnSil.UseVisualStyleBackColor = false;
 			btnSil.Click += btnSil_Click;
-			btnSil.MouseEnter += btnSil_MouseEnter;
+			//btnSil.MouseEnter += btnSil_MouseEnter;
 			btnSil.MouseMove += btnSil_MouseMove;
 			// 
 			// btnEkle
@@ -283,7 +283,7 @@
 			btnEkle.Text = "Ekle";
 			btnEkle.UseVisualStyleBackColor = false;
 			btnEkle.Click += btnEkle_Click;
-			btnEkle.MouseEnter += btnEkle_MouseEnter;
+			//btnEkle.MouseEnter += btnEkle_MouseEnter;
 			btnEkle.MouseMove += btnEkle_MouseMove;
 			// 
 			// txtUnitsInStock

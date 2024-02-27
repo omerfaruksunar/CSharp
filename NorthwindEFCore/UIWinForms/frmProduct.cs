@@ -21,13 +21,13 @@ public partial class frmProduct : Form
 
 	private void frmProduct_Load(object sender, EventArgs e)
 	{
-		dgwProducts.DataSource = ProductIncludeData();
+		dgwProducts.DataSource = ProductIncludeData().ToList();
 		DgwFormat(dgwProducts);
-		dgwProductCatName.DataSource =
-			dalPrdCatName.GetProductsCatName(0).ToList();
+		dgwProductCatName.DataSource = dalPrdCatName.GetProductsCatName(0).ToList();
 		DgwFormat(dgwProductCatName);
 		CmbCatLoad();
 		CmbSupLoad();
+
 	}
 
 	private IQueryable<Product> ProductIncludeData()
@@ -85,6 +85,7 @@ public partial class frmProduct : Form
 		//Satirlara göre olsun
 		dgw.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.DisplayedCells;
 		dgw.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+		
 	}
 
 	private void cmbCategories_SelectionChangeCommitted(object sender, EventArgs e)
@@ -94,14 +95,20 @@ public partial class frmProduct : Form
 		var isCatID = int.TryParse(cmb.SelectedValue.ToString(),
 			out var catID);
 		if (isCatID)
+		{
 			dgwProducts.DataSource = dalPrdCatName.GetProductsByCategory(catID).ToList();
+			DgwFormat(dgwProducts);
+		}
 	}
 	int satir = 0;
 	private void btnTumu_Click(object sender, EventArgs e)
 	{
-		satir = dgwProducts.CurrentRow.Cells[0].RowIndex > 1
-												? dgwProducts.CurrentRow.Cells[0].RowIndex
-												: dgwProducts.RowCount - 1;
+		if (dgwProducts.CurrentRow?.Cells?.Count > 0)
+		{
+			satir = dgwProducts.CurrentRow.Cells[0].RowIndex > 1
+													? dgwProducts.CurrentRow.Cells[0].RowIndex
+													: dgwProducts.RowCount - 1;
+		}
 		dgwProducts.DataSource = ProductIncludeData().ToList();
 		DgwFormat(dgwProducts);
 		txtAra.Clear();
@@ -208,15 +215,42 @@ public partial class frmProduct : Form
 	private void btnSil_MouseMove(object sender, MouseEventArgs e)
 												=> CUDControl(sender);
 
-	private void btnEkle_MouseEnter(object sender, EventArgs e)
+	/*private void btnEkle_MouseEnter(object sender, EventArgs e)
 													=> CUDControl(sender);
 
 	private void btnGuncelle_MouseEnter(object sender, EventArgs e)
 													=> CUDControl(sender);
 
-	private void btnSil_MouseEnter(object sender, EventArgs e)
-													=> CUDControl(sender);
 
+	private void btnSil_MouseEnter(object sender, EventArgs e)
+													=> CUDControl(sender);*/
+
+	private void CUDControl(object sender)
+	{
+		var button = (Button)sender;
+		btnEkle.Enabled = true;
+		btnYeni.Enabled = true;
+		btnSil.Enabled = true;
+		btnGuncelle.Enabled = true;
+		if (txtProductId.Text != "" && button == btnEkle)
+		{
+			MessageBox.Show(
+				$"""
+				Bu ürün zaten mevcuttur, ancak güncelleme 
+				veya silme işlemi yapabilirsiniz!
+				""");
+		}
+		else if (txtProductId.Text == "" && button != btnEkle)
+		{
+			string delUp = button == btnSil ? "Sil" : "Güncelle";
+			MessageBox.Show(
+				$"""
+				Grid üzerinden bir ürün seçmediniz.
+				Hangi ürün {delUp}me işlemine tabi tutulacak seçmeniz gerekir.
+				"""
+				);
+		}
+	}
 
 	public enum CUDType
 	{
