@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w8y5sDErALd/uFRVuyDtApX+0K22tar4GGM2mz0UXfk=",
+  "Hash": "MqBxNdXrmvoL7AT5eOHrqi6RdoPb1s6uw7ll76b+RrE=",
   "Source": "UIBlazor",
   "BasePath": "_content/UIBlazor",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "UIBlazor\\wwwroot",
       "Source": "UIBlazor",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "Pattern": "**"
     }
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\devexpress.blazor\\23.2.5-pre-24042\\staticwebassets\\modules\\window-resize-helper-8b32f302.js"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIBlazor.styles.css",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIBlazor.styles.css",
       "SourceId": "UIBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "UIBlazor.styles.css",
       "AssetKind": "All",
@@ -2750,13 +2750,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIBlazor.bundle.scp.css",
       "SourceId": "UIBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "UIBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -2769,13 +2769,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\css\\site.css",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\favicon.png",
       "SourceId": "UIBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\wwwroot\\",
       "BasePath": "_content/UIBlazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

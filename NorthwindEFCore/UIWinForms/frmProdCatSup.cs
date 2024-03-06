@@ -1,12 +1,12 @@
 ﻿namespace UIWinForms;
 public partial class frmProdCatSup : Form
 {
-	private readonly NorthwindContext context;
-	private readonly DalVwProdCatSup dalVwProdCatSup;
+	private readonly Entities.Context.NorthwindContext context;
+	private readonly IDalVwProdCatSup dalVwProdCatSup;
 	public frmProdCatSup()
 	{
 		InitializeComponent();
-		dalVwProdCatSup = new(context = new());
+		dalVwProdCatSup = new DalVwProdCatSup(context = new());
 
 	}
 

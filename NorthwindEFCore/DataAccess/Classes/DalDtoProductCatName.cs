@@ -9,8 +9,8 @@ namespace DataAccess.Classes;
 public class DalDtoProductCatName
 	: EntityRepo<Product>, IDalDtoProductCatName
 {
-	private readonly NorthwindContext _context;
-	public DalDtoProductCatName(NorthwindContext p_context )
+	private readonly Entities.Context.NorthwindContext _context;
+	public DalDtoProductCatName(Entities.Context.NorthwindContext p_context )
 		:base(p_context) => _context = p_context;
 	public IQueryable<DtoProductCatName> GetProductsCatName()
 		=> _context.Products.Join(_context.Categories,

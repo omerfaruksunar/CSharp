@@ -1,3 +1,5 @@
+using Autofac;
+
 namespace UIWinForms;
 internal static class Program
 {
@@ -5,6 +7,12 @@ internal static class Program
 	static void Main()
 	{
 		ApplicationConfiguration.Initialize();
-		Application.Run(new frmProduct());
+		Application.Run(new frmProduct(
+			Configure().Resolve<IDalProduct>(),
+			Configure().Resolve<IDalDtoProductCatName>(),
+			Configure().Resolve<IDalCategory>(),
+			Configure().Resolve<IDalSupplier>()
+			)
+			);
 	}
 }

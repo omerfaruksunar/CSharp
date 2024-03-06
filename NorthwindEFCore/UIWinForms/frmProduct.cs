@@ -1,24 +1,31 @@
-﻿using Entities.Models;
-using Microsoft.EntityFrameworkCore;
-using static System.Convert;
-namespace UIWinForms;
+﻿namespace UIWinForms;
 public partial class frmProduct : Form
 {
-	private readonly NorthwindContext context;
-	private readonly DalCategory dalCategory;
-	private readonly DalProduct dalProduct;
-	private readonly DalSupplier dalSupplier;
-	private readonly DalDtoProductCatName dalPrdCatName;
-	public frmProduct()
+	private readonly Entities.Context.NorthwindContext context;
+	private readonly IDalCategory dalCategory;
+	private readonly IDalProduct dalProduct;
+	private readonly IDalDtoProductCatName dalPrdCatName;
+	private readonly IDalSupplier dalSupplier;
+	private readonly IDalCustomer dalCustomer;
+	private readonly IDalEmployee dalEmployee;
+	private readonly IDalOrder dalOrder;
+	private readonly IDalRegion dalRegion;
+	private readonly IDalShipper dalShipper;
+	private readonly IDalTerritory dalTerritory;
+
+	public frmProduct(
+		IDalProduct p_dalProduct,
+		IDalDtoProductCatName p_dalPrdCatName,
+		IDalCategory p_dalCategory,
+		IDalSupplier p_dalSupplier)
 	{
 		context = new();
-		dalProduct = new DalProduct(context);
-		dalCategory = new DalCategory(context);
-		dalSupplier = new DalSupplier(context);
-		dalPrdCatName = new DalDtoProductCatName(context);
+		dalProduct = p_dalProduct;         //new DalProduct(context);
+		dalCategory = p_dalCategory;         //new DalCategory(context);
+		dalSupplier = p_dalSupplier;        //new DalSupplier(context);
+		dalPrdCatName = p_dalPrdCatName;      //new DalDtoProductCatName(context);
 		InitializeComponent();
 	}
-
 	private void frmProduct_Load(object sender, EventArgs e)
 	{
 		dgwProducts.DataSource = ProductIncludeData().ToList();
@@ -29,7 +36,6 @@ public partial class frmProduct : Form
 		CmbSupLoad();
 
 	}
-
 	private IQueryable<Product> ProductIncludeData()
 		=> dalProduct.GetAll()
 					  .Include(x => x.Category)
@@ -54,13 +60,11 @@ public partial class frmProduct : Form
 		var frmOpen = new frmCategories();
 		frmOpen.ShowDialog();
 	}
-
 	private void btnSupplier_Click(object sender, EventArgs e)
 	{
 		var frmOpen = new frmSuppliers();
 		frmOpen.ShowDialog();
 	}
-
 	private void btnDTO_Click(object sender, EventArgs e)
 	{
 		var frmOpen = new frmProdCatSup();
@@ -87,7 +91,6 @@ public partial class frmProduct : Form
 		dgw.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 		
 	}
-
 	private void cmbCategories_SelectionChangeCommitted(object sender, EventArgs e)
 	{
 		//cmb'nin combobox'ı ifade edebilmesi için yazdık.
@@ -114,9 +117,9 @@ public partial class frmProduct : Form
 		txtAra.Clear();
 		dgwProducts.CurrentCell = dgwProducts.Rows[satir].Cells[1];
 	}
-
 	private void dgwProducts_CellClick(object sender, DataGridViewCellEventArgs e)
 	{
+		CUDControl();
 		GridToControl(sender);
 	}
 	private void GridToControl(object sender)
@@ -134,7 +137,6 @@ public partial class frmProduct : Form
 		//System static convert
 		rdbDiscontinued.Checked = ToBoolean(row.Cells[9].Value);
 	}
-
 	private void txtAra_TextChanged(object sender, EventArgs e)
 	{
 		if (sender is TextBox txt)
@@ -144,10 +146,8 @@ public partial class frmProduct : Form
 					: ProductIncludeData().Where(x => x.ProductName
 					.Contains(txtAra.Text)).ToList();
 	}
-
 	private void btnYeni_Click(object sender, EventArgs e)
 				=> txtProductId.Text = "";
-
 	private async void btnEkle_Click(object sender, EventArgs e)
 	{
 		var prd = new Product();
@@ -166,6 +166,7 @@ public partial class frmProduct : Form
 	}
 	private async void btnSil_Click(object sender, EventArgs e)
 	{
+		if (dgwProducts.CurrentRow == null) return;
 		var prd = new Product();
 		await CUDEntity(CUDType.Delete, prd);
 		DgwFormat(dgwProducts);
@@ -202,32 +203,16 @@ public partial class frmProduct : Form
 				break;
 		}
 	}
-
 	private void btnEkle_MouseMove(object sender, MouseEventArgs e)
 												=> CUDControl(sender);
-
-
 	private void btnGuncelle_MouseMove(object sender, MouseEventArgs e)
 												=> CUDControl(sender);
-
-
-
 	private void btnSil_MouseMove(object sender, MouseEventArgs e)
 												=> CUDControl(sender);
-
-	/*private void btnEkle_MouseEnter(object sender, EventArgs e)
-													=> CUDControl(sender);
-
-	private void btnGuncelle_MouseEnter(object sender, EventArgs e)
-													=> CUDControl(sender);
-
-
-	private void btnSil_MouseEnter(object sender, EventArgs e)
-													=> CUDControl(sender);*/
-
-	private void CUDControl(object sender)
+	private void CUDControl(object sender = null)
 	{
 		var button = (Button)sender;
+		if (button == null || context == null ) return;
 		btnEkle.Enabled = true;
 		btnYeni.Enabled = true;
 		btnSil.Enabled = true;
@@ -244,14 +229,13 @@ public partial class frmProduct : Form
 		{
 			string delUp = button == btnSil ? "Sil" : "Güncelle";
 			MessageBox.Show(
-				$"""
+				$$"""
 				Grid üzerinden bir ürün seçmediniz.
-				Hangi ürün {delUp}me işlemine tabi tutulacak seçmeniz gerekir.
+				Hangi ürün {{delUp}}me işlemine tabi tutulacak seçmeniz gerekir.
 				"""
 				);
 		}
 	}
-
 	public enum CUDType
 	{
 		Insert, Update, Delete
