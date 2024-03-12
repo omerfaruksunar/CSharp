@@ -1,0 +1,6 @@
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\Business\obj\Debug\net8.0\Business.sourcelink.json

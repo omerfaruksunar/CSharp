@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGgsXs074C7T+ZMRQyRMFMzesQuriS22mckQTqeUsn0AUnCYDyxAXUKIPjjXfO+FrgaY1+Lot0YlWreA0+XLYw==",
+  "dgSpecHash": "h5NvMjLVM7LKy0hNb/frM77DMzgT9p34P1cfnpSCak5jQPBrRgxEl/NFN1zHgYVCMsZdJXaMOi+71BFL8rO2hA==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIBlazor\\UIBlazor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\omerfaruksunar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\omerfaruksunar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\devexpress.blazor\\23.2.5-pre-24042\\devexpress.blazor.23.2.5-pre-24042.nupkg.sha512",
@@ -21,7 +23,7 @@
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\4.5.0\\microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.5.0\\microsoft.codeanalysis.workspaces.common.4.5.0.nupkg.sha512",
-    "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.data.sqlclient\\5.2.0-preview4.23342.2\\microsoft.data.sqlclient.5.2.0-preview4.23342.2.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.2.0-preview1.23340.1\\microsoft.data.sqlclient.sni.runtime.5.2.0-preview1.23340.1.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.sha512",

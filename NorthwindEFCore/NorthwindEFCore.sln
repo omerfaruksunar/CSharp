@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UIBlazor", "UIBlazor\UIBlaz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UIWinForms", "UIWinForms\UIWinForms.csproj", "{49138B61-4F2F-4947-9AFA-E0C350D4745F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyInjectionSample", "PropertyInjectionSample\PropertyInjectionSample.csproj", "{4BEBBD7A-2EEC-4C0E-9B70-6E98F0442CD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyInjectionSample", "PropertyInjectionSample\PropertyInjectionSample.csproj", "{4BEBBD7A-2EEC-4C0E-9B70-6E98F0442CD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{30C1B8E2-5F88-4D32-8645-F9BE559F9ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{B0EE9F6C-694A-4091-9FEA-5E3932E45E3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{4BEBBD7A-2EEC-4C0E-9B70-6E98F0442CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BEBBD7A-2EEC-4C0E-9B70-6E98F0442CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BEBBD7A-2EEC-4C0E-9B70-6E98F0442CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C1B8E2-5F88-4D32-8645-F9BE559F9ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C1B8E2-5F88-4D32-8645-F9BE559F9ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C1B8E2-5F88-4D32-8645-F9BE559F9ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C1B8E2-5F88-4D32-8645-F9BE559F9ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EE9F6C-694A-4091-9FEA-5E3932E45E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EE9F6C-694A-4091-9FEA-5E3932E45E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EE9F6C-694A-4091-9FEA-5E3932E45E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EE9F6C-694A-4091-9FEA-5E3932E45E3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

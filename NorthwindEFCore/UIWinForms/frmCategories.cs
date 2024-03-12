@@ -1,17 +1,21 @@
-﻿namespace UIWinForms;
+﻿using AutoMapper;
+using Core.Dtos;
+
+namespace UIWinForms;
 public partial class frmCategories : Form
 {
-	private readonly Entities.Context.NorthwindContext context;
 	private readonly IDalCategory dalCategory;
-	public frmCategories()
+	private readonly IMapper mapper;
+	public frmCategories(IDalCategory p_dalCategory, IMapper p_mapper)
 	{
+		dalCategory = p_dalCategory;
+		mapper = p_mapper;
 		InitializeComponent();
-		dalCategory = new DalCategory(context = new());
-	}
 
+	}
 	private void frmCategories_Load(object sender, EventArgs e)
 	{
-		dgwCategories.DataSource = dalCategory.GetAll().ToList() ;
+		dgwCategories.DataSource = mapper.Map<List<DtoCategory>>(dalCategory.GetAll());
 		dgwCategories.AutoResizeRows();
 	}
 }

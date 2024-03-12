@@ -17,11 +17,13 @@ public static class AutoFacImp
 		builder.RegisterType<DalRegion>().As<IDalRegion>();
 		builder.RegisterType<DalShipper>().As<IDalShipper>();
 		builder.RegisterType<DalTerritory>().As<IDalTerritory>();
+		builder.RegisterType<DalVwProdCatSup>().As<IDalVwProdCatSup>();
 		builder.RegisterType<Entities.Context.NorthwindContext>();
 		builder.RegisterType<frmCategories>();
 		builder.RegisterType<frmProdCatSup>();
 		builder.RegisterType<frmProduct>();
 		builder.RegisterType<frmSuppliers>();
+		builder.RegisterType<Product>();
 		return builder.Build();
 	}
 }

@@ -1,17 +1,20 @@
-﻿namespace UIWinForms;
+﻿using AutoMapper;
+using Core.Dtos;
+namespace UIWinForms;
 public partial class frmSuppliers: Form
 {
-    private readonly Entities.Context.NorthwindContext context;
     private readonly IDalSupplier dalSupplier;
-    private frmProduct frm = new();
-    public frmSuppliers()
+    private readonly IMapper mapper;
+    //private frmProduct frm = new();
+    public frmSuppliers(IDalSupplier p_dalSupplier, IMapper p_mapper)
     {
         InitializeComponent();
-        dalSupplier = new DalSupplier(context = new());
+        dalSupplier = p_dalSupplier;
+        mapper = p_mapper;
     }
     private void frmSuppliers_Load(object sender, EventArgs e)
-    {
-        dgwSuppliers.DataSource = dalSupplier.GetAll().ToList();
-        dgwSuppliers.AutoResizeRows();
+	{
+        dgwSuppliers.DataSource = mapper.Map<List<DtoSupplier>>(dalSupplier.GetAll());
+		dgwSuppliers.AutoResizeRows();
     }
 }

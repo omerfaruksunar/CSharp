@@ -1,19 +1,19 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "Autofac/8.0.0": {
         "type": "package",
         "dependencies": {
           "System.Diagnostics.DiagnosticSource": "7.0.2"
         },
         "compile": {
-          "lib/net7.0/Autofac.dll": {
+          "lib/net8.0/Autofac.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net7.0/Autofac.dll": {
+          "lib/net8.0/Autofac.dll": {
             "related": ".xml"
           }
         }
@@ -25,12 +25,12 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
         },
         "compile": {
-          "lib/net7.0/Autofac.Extensions.DependencyInjection.dll": {
+          "lib/net8.0/Autofac.Extensions.DependencyInjection.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net7.0/Autofac.Extensions.DependencyInjection.dll": {
+          "lib/net8.0/Autofac.Extensions.DependencyInjection.dll": {
             "related": ".xml"
           }
         }
@@ -38,12 +38,12 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
             "related": ".xml"
           }
         },
@@ -354,7 +354,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "Autofac.Extensions.DependencyInjection >= 9.0.0",
       "Unity.Container >= 5.11.11"
     ]
@@ -376,7 +376,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -384,8 +384,8 @@
         "https://nuget.devexpress.com/bGlD1GYlvveLTtBTgYuS7kNWqdQcyJAaZ9UPqNlxAfsMuK4C1P/api/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -396,8 +396,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
@@ -424,7 +424,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

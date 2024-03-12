@@ -1,18 +1,20 @@
-﻿namespace UIWinForms;
+﻿using AutoMapper;
+using Core.Dtos;
+namespace UIWinForms;
 public partial class frmProdCatSup : Form
 {
-	private readonly Entities.Context.NorthwindContext context;
 	private readonly IDalVwProdCatSup dalVwProdCatSup;
-	public frmProdCatSup()
+	private readonly IMapper mapper;
+	public frmProdCatSup(IDalVwProdCatSup p_dalVwProdCatSup, IMapper p_mapper)
 	{
 		InitializeComponent();
-		dalVwProdCatSup = new DalVwProdCatSup(context = new());
-
+		dalVwProdCatSup = p_dalVwProdCatSup;
+		mapper = p_mapper;
 	}
 
 	private void frmProdCatSup_Load(object sender, EventArgs e)
 	{
-		dgwProdCatSup.DataSource = dalVwProdCatSup.GetAll().ToList();
+		dgwProdCatSup.DataSource = mapper.Map<List<DtoVwProdCatSup>>(dalVwProdCatSup.GetAll());
 		dgwProdCatSup.AutoResizeRows();
 	}
 }

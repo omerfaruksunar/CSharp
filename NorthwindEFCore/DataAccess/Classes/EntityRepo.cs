@@ -1,20 +1,26 @@
-﻿using DataAccess.Interfaces;
+﻿using Core.UnitOfWork;
+using DataAccess.Interfaces;
 using Entities.Context;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-
 namespace DataAccess.Classes;
 public class EntityRepo<T> : IEntityRepo<T>
 	where T : class, new()
 {
 	private readonly NorthwindContext _context;
-	private readonly DbSet<T> _dbSet;	
-    public EntityRepo(NorthwindContext p_context)
+	private readonly DbSet<T> _dbSet;
+	private readonly IUnitOfWork unitOfWork;
+	public EntityRepo(NorthwindContext p_context)
+	{
+		_context = p_context;
+		unitOfWork = new UnitOfWork(p_context);
 		//Buradaki T category yada product olacak.
-			=>_dbSet = (_context = p_context).Set<T>();
-    
+		_dbSet = (_context = p_context).Set<T>();
+
+	}
+
 	//AsNoTracking: takip etme.
-    public IQueryable<T> GetAll() => _dbSet.AsNoTracking() ;
+	public IQueryable<T> GetAll() => _dbSet.AsNoTracking() ;
 	public IQueryable<T> Where
 		(Expression<Func<T, bool>> predicate)
 		=> _dbSet.AsNoTracking().Where(predicate);
@@ -28,7 +34,7 @@ public class EntityRepo<T> : IEntityRepo<T>
 	private async Task CUD (T entity,EntityState state)
 	{
 		_context.Entry(entity).State = state;
-		await _context.SaveChangesAsync();
+		unitOfWork.CommitAsync();
 		_context.Entry(entity).State = EntityState.Detached;
 	}
 	public async Task AddAsync(T entity)

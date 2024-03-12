@@ -299,3 +299,10 @@ C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\obj\Deb
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\obj\Debug\net8.0-windows\UIWinForms.pdb
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\obj\Debug\net8.0-windows\UIWinForms.genruntimeconfig.cache
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\obj\Debug\net8.0-windows\ref\UIWinForms.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Autofac.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Unity.Abstractions.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Unity.Container.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\AutoMapper.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Core.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Core.pdb

@@ -29,3 +29,5 @@ C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\DataAccess\obj\Deb
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\DataAccess\bin\Debug\net8.0\Core.pdb
