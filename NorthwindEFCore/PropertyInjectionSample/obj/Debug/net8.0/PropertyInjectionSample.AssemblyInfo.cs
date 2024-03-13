@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PropertyInjectionSample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a733dfc48c52538211a6ce44b2b2882716e6e721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0845a992d10d024b154ed52f2392aefaed2f6f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("PropertyInjectionSample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PropertyInjectionSample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
