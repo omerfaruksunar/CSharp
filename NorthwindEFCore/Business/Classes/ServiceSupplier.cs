@@ -1,9 +1,9 @@
-﻿using DataAccess.Interfaces;
-using Entities.Context;
+﻿using Business.Interfaces;
+using DataAccess.Interfaces;
 using Entities.Models;
 namespace Business.Classes;
-public class ServiceSupplier : ServiceRepo<Supplier>, IServiceSupplier
+public class ServiceSupplier : Service<Supplier>, IServiceSupplier
 {
-	public ServiceSupplier(Entities.Context.NorthwindContext p_context)
-							: base(p_context) { }
+	public ServiceSupplier(IEntityRepo<Supplier> p_entityRepo)
+									: base(p_entityRepo) { }
 }

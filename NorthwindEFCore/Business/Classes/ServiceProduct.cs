@@ -1,12 +1,9 @@
-﻿using DataAccess.Classes;
+﻿using Business.Interfaces;
 using DataAccess.Interfaces;
-using Entities.Context;
 using Entities.Models;
-
 namespace Business.Classes;
-
-public class DalProduct : ServiceRepo<Product>,IServiceProduct
+public class ServiceProduct : Service<Product>,IServiceProduct
 {
-	public DalProduct(Entities.Context.NorthwindContext p_context) 
-		: base(p_context){ }
+	public ServiceProduct(IEntityRepo<Product> p_entityRepo)
+									: base(p_entityRepo) { }
 }

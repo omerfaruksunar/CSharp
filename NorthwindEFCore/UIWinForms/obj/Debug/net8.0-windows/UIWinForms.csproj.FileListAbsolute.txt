@@ -306,3 +306,5 @@ C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Deb
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Core.dll
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Core.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Business.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIWinForms\bin\Debug\net8.0-windows\Business.pdb

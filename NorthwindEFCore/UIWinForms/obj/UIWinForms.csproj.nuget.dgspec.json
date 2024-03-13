@@ -4,6 +4,69 @@
     "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\UIWinForms\\UIWinForms.csproj": {}
   },
   "projects": {
+    "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bGlD1GYlvveLTtBTgYuS7kNWqdQcyJAaZ9UPqNlxAfsMuK4C1P/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -236,11 +299,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
+              "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj"
+              },
               "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Core\\Core.csproj": {
                 "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Core\\Core.csproj"
-              },
-              "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
               },
               "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"

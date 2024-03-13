@@ -1,11 +1,10 @@
-﻿using DataAccess.Interfaces;
-using Entities.Context;
+﻿using Business.Interfaces;
+using DataAccess.Interfaces;
 using Entities.Models;
-
 namespace Business.Classes;
 
-public class ServiceCategory : ServiceRepo<Category>, IServiceCategory
+public class ServiceCategory : Service<Category>, IServiceCategory
 {
-	public ServiceCategory(Entities.Context.NorthwindContext p_context) 
-							: base(p_context) { }
+	public ServiceCategory(IEntityRepo<Category> p_entityRepo)
+									: base(p_entityRepo) { }
 }

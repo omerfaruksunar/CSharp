@@ -375,3 +375,9 @@ C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\obj\Debug
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\obj\Debug\net8.0\ref\UIBlazor.dll
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\obj\Debug\net8.0\UIBlazor.RazorAssemblyInfo.cache
 C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\obj\Debug\net8.0\UIBlazor.RazorAssemblyInfo.cs
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\bin\Debug\net8.0\Business.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\bin\Debug\net8.0\Core.dll
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\bin\Debug\net8.0\Business.pdb
+C:\Users\omerfaruksunar\Desktop\CSharp\CSharp\NorthwindEFCore\UIBlazor\bin\Debug\net8.0\Core.pdb

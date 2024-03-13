@@ -1,11 +1,10 @@
-﻿using DataAccess.Interfaces;
+﻿using Business.Interfaces;
+using DataAccess.Interfaces;
 using Entities.Context;
 using Entities.Models;
-
 namespace Business.Classes;
-
-public class ServiceEmployee : ServiceRepo<Employee>, IServiceEmployee
+public class ServiceEmployee : Service<Employee>, IServiceEmployee
 {
-	public ServiceEmployee(Entities.Context.NorthwindContext p_context) 
-							: base(p_context) { }
+	public ServiceEmployee(IEntityRepo<Employee> p_entityRepo)
+									: base(p_entityRepo) { }
 }

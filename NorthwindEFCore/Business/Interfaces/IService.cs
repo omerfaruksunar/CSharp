@@ -1,7 +1,8 @@
-﻿using System.Linq.Expressions;
+﻿using DataAccess.Interfaces;
+using System.Linq.Expressions;
 namespace Business.Interfaces;
 
-public interface IService<T>
+public interface IService<T> 
     where T : class, new()
 {
     IQueryable<T> GetAll();
@@ -15,6 +16,4 @@ public interface IService<T>
     Task UpdateAsync(T entity);
     Task RemoveAsync(T entity);
     Task RemoveRange(IQueryable<T> entities);
-
-
 }

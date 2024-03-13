@@ -1,34 +1,24 @@
-﻿using Core.UnitOfWork;
+﻿using Business.Interfaces;
 using DataAccess.Interfaces;
-using Entities.Context;
-using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 namespace Business.Classes;
 public class Service<T> : IService<T>
 	where T : class, new()
 {
-	private readonly
-
-	//AsNoTracking: takip etme.
-	public IQueryable<T> GetAll() => _dbSet.AsNoTracking() ;
+	private readonly IEntityRepo<T> entityRepo;
+	public Service(IEntityRepo<T> p_entityRepo) => entityRepo = p_entityRepo;
+	public IQueryable<T> GetAll() => entityRepo.GetAll();
 	public IQueryable<T> Where
 		(Expression<Func<T, bool>> predicate)
-		=> _dbSet.AsNoTracking().Where(predicate);
+		=> entityRepo.Where(predicate);
 	public async Task<T> GetByIdAsync(int id)
 		//Asenkron ise mutlaka await komutu yazılır.
-		=> await _dbSet.FindAsync(id);
+		=> await entityRepo.GetByIdAsync(id);
 	//Asenkron: Bir işlem bitmeden diğerinin de aynı anda yapilabilmesi.
 	public async Task<bool> AnyAsync(Expression<Func<T, bool>> predicate)
-		=> await _dbSet.AnyAsync(predicate);
-
-	private async Task CUD (T entity,EntityState state)
-	{
-		_context.Entry(entity).State = state;
-		unitOfWork.CommitAsync();
-		_context.Entry(entity).State = EntityState.Detached;
-	}
+		=> await entityRepo.AnyAsync(predicate);
 	public async Task AddAsync(T entity)
-		=> await CUD(entity, EntityState.Added);
+		=> await entityRepo.AddAsync(entity);
 	public async Task AddRangeAsync(IQueryable<T> entities)
 	{
 		foreach(var x in entities)
@@ -37,11 +27,10 @@ public class Service<T> : IService<T>
 		}
 	}
 	public async Task UpdateAsync(T entity)
-		=> await CUD(entity, EntityState.Modified);
+		=> await entityRepo.UpdateAsync(entity);
 	public async Task RemoveAsync(T entity)
-		=> await CUD (entity, EntityState.Deleted);
+		=> await entityRepo.RemoveAsync(entity);
 	public async Task RemoveRange(IQueryable<T> entities)
 		=> entities.ToList().ForEach(async x => await RemoveAsync(x));
 		//=> await entities.ForEachAsync(async x => await Remove(x));
-
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1504e17b4abe3b05c25b27a82683e64de159351e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a733dfc48c52538211a6ce44b2b2882716e6e721")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

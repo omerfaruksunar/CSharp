@@ -1,4 +1,3 @@
 ﻿using Entities.Models;
-
 namespace Business.Interfaces;
-public interface IDalRegion : IService<Region> { }
+public interface IServiceRegion : IService<Region> { }

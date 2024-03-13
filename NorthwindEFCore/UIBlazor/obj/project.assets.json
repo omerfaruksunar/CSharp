@@ -1894,6 +1894,20 @@
           }
         }
       },
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DataAccess": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -5132,6 +5146,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
     "Core/1.0.0": {
       "type": "project",
       "path": "../Core/Core.csproj",
@@ -5150,8 +5169,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Business >= 1.0.0",
       "Core >= 1.0.0",
-      "DataAccess >= 1.0.0",
       "DevExpress.Blazor >= 23.2.5-pre-24042",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0-preview.1.24081.2"
@@ -5185,11 +5204,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Business\\Business.csproj"
+            },
             "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Core\\Core.csproj": {
               "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Core\\Core.csproj"
-            },
-            "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\DataAccess\\DataAccess.csproj"
             },
             "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\omerfaruksunar\\Desktop\\CSharp\\CSharp\\NorthwindEFCore\\Entities\\Entities.csproj"

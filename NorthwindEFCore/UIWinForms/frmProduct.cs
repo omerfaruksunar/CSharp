@@ -1,21 +1,21 @@
 ﻿using AutoMapper;
+using Business.Interfaces;
 using Core.Dtos;
-using System.Collections.Generic;
 
 namespace UIWinForms;
 public partial class frmProduct : Form
 {
-	private readonly IDalCategory dalCategory;
-	private readonly IDalProduct dalProduct;
-	private readonly IDalDtoProductCatName dalPrdCatName;
-	private readonly IDalSupplier dalSupplier;
-	private readonly IDalVwProdCatSup dalVwProdCatSup;
-	private readonly IDalCustomer dalCustomer;
-	private readonly IDalEmployee dalEmployee;
-	private readonly IDalOrder dalOrder;
-	private readonly IDalRegion dalRegion;
-	private readonly IDalShipper dalShipper;
-	private readonly IDalTerritory dalTerritory;
+	private readonly IServiceCategory serviceCategory;
+	private readonly IServiceProduct serviceProduct;
+	private readonly IServiceDtoProductCatName servicePrdCatName;
+	private readonly IServiceSupplier serviceSupplier;
+	private readonly IServiceVwProdCatSup serviceVwProdCatSup;
+	private readonly IServiceCustomer serviceCustomer;
+	private readonly IServiceEmployee serviceEmployee;
+	private readonly IServiceOrder serviceOrder;
+	private readonly IServiceRegion serviceRegion;
+	private readonly IServiceShipper serviceShipper;
+	private readonly IServiceTerritory serviceTerritory;
 	private readonly IMapper mapper;
 	private readonly frmCategories frmCat;
 	private readonly frmProdCatSup frmCatSup;
@@ -23,25 +23,25 @@ public partial class frmProduct : Form
 	private readonly Product product;
 
 	public frmProduct(
-		IDalProduct p_dalProduct,
-		IDalDtoProductCatName p_dalPrdCatName,
-		IDalCategory p_dalCategory,
-		IDalSupplier p_dalSupplier,
-		IDalVwProdCatSup p_dalVwProdCatSup,
+		IServiceProduct p_serviceProduct,
+		IServiceDtoProductCatName p_servicePrdCatName,
+		IServiceCategory p_serviceCategory,
+		IServiceSupplier p_serviceSupplier,
+		IServiceVwProdCatSup p_serviceVwProdCatSup,
 		//frmCategories p_frmCat,
 		//frmProdCatSup p_frmCatSup,
 		//frmSuppliers p_frmSup,
 		Product p_product,
 		IMapper p_mapper)
 	{
-		dalProduct = p_dalProduct;
-		dalCategory = p_dalCategory;
-		dalSupplier = p_dalSupplier;
-		dalPrdCatName = p_dalPrdCatName;
-		dalVwProdCatSup = p_dalVwProdCatSup;
-		frmCat = new frmCategories(p_dalCategory, p_mapper); // p_frmCat);
-		frmCatSup = new frmProdCatSup(p_dalVwProdCatSup, p_mapper);// p_frmCatSup;
-		frmSup = new frmSuppliers(p_dalSupplier, p_mapper); //p_frmSup;
+		serviceProduct = p_serviceProduct;
+		serviceCategory = p_serviceCategory;
+		serviceSupplier = p_serviceSupplier;
+		servicePrdCatName = p_servicePrdCatName;
+		serviceVwProdCatSup = p_serviceVwProdCatSup;
+		frmCat = new frmCategories(p_serviceCategory, p_mapper); // p_frmCat);
+		frmCatSup = new frmProdCatSup(p_serviceVwProdCatSup, p_mapper);// p_frmCatSup;
+		frmSup = new frmSuppliers(p_serviceSupplier, p_mapper); //p_frmSup;
 		product = p_product;
 		mapper = p_mapper;
 		InitializeComponent();
@@ -51,7 +51,7 @@ public partial class frmProduct : Form
 		dgwProducts.DataSource = DtoProductInclude();
 		DgwFormat(dgwProducts);
 		dgwProductCatName.DataSource = 
-			dalPrdCatName.GetProductsCatName(0).ToList();
+			servicePrdCatName.GetProductsCatName(0).ToList();
 		DgwFormat(dgwProductCatName);
 		CmbCatLoad();
 		CmbSupLoad();
@@ -62,13 +62,13 @@ public partial class frmProduct : Form
 		=> mapper.Map<List<DtoProduct>>(ProductIncludeData().ToList());
 
 	private IQueryable<Product> ProductIncludeData()
-		=> dalProduct.GetAll()
+		=> serviceProduct.GetAll()
 					  .Include(x => x.Category)
 					  .Include(x => x.Supplier);
 	private void CmbCatLoad()
 	{
-		cmbCategoryID.DataSource =mapper.Map<List<DtoCategory>>(dalCategory.GetAll());
-		cmbCategories.DataSource = mapper.Map < List < DtoCategory >> (dalCategory.GetAll());
+		cmbCategoryID.DataSource =mapper.Map<List<DtoCategory>>(serviceCategory.GetAll());
+		cmbCategories.DataSource = mapper.Map < List < DtoCategory >> (serviceCategory.GetAll());
 		cmbCategories.DisplayMember = nameof(Category.CategoryName);
 		cmbCategoryID.DisplayMember = nameof(Category.CategoryName);
 		cmbCategories.ValueMember = nameof(Category.CategoryId);
@@ -76,7 +76,7 @@ public partial class frmProduct : Form
 	}
 	private void CmbSupLoad()
 	{
-		cmbSupplierID.DataSource = mapper.Map<List<DtoSupplier>>(dalSupplier.GetAll());
+		cmbSupplierID.DataSource = mapper.Map<List<DtoSupplier>>(serviceSupplier.GetAll());
 		cmbSupplierID.DisplayMember = nameof(Supplier.CompanyName);
 		cmbSupplierID.ValueMember = nameof(Supplier.SupplierId);
 	}
@@ -114,7 +114,7 @@ public partial class frmProduct : Form
 		if (isCatID)
 		{
 			dgwProducts.DataSource = 
-				mapper.Map<List<Product>>(dalPrdCatName.GetProductsByCategory(catID));
+				mapper.Map<List<Product>>(servicePrdCatName.GetProductsByCategory(catID));
 		}
 	}
 
@@ -205,13 +205,13 @@ public partial class frmProduct : Form
 		switch (cruType)
 		{
 			case CUDType.Insert:
-				await dalProduct.AddAsync(prd);
+				await serviceProduct.AddAsync(prd);
 				break;
 			case CUDType.Update:
-				await dalProduct.UpdateAsync(prd);
+				await serviceProduct.UpdateAsync(prd);
 				break;
 			case CUDType.Delete:
-				await dalProduct.RemoveAsync(prd);
+				await serviceProduct.RemoveAsync(prd);
 				break;
 			default:
 				break;

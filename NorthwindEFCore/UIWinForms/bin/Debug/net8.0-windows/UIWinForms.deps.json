@@ -10,8 +10,8 @@
         "dependencies": {
           "AutoMapper": "12.0.1",
           "Autofac": "8.0.0",
+          "Business": "1.0.0",
           "Core": "1.0.0",
-          "DataAccess": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "9.0.0-preview.1.24081.2",
           "Unity.Container": "5.11.11"
@@ -994,6 +994,15 @@
           }
         }
       },
+      "Business/1.0.0": {
+        "dependencies": {
+          "DataAccess": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "Business.dll": {}
+        }
+      },
       "Core/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
@@ -1596,6 +1605,11 @@
       "sha512": "sha512-47u4MBG8hxV2ZBUK7LlXcZQW8yWSqUSCRG+2/TBA2CSkxkQlMfVUJ0RJODJsZgsiSgy4N0M8HIr7J88drYR/OQ==",
       "path": "unity.container/5.11.11",
       "hashPath": "unity.container.5.11.11.nupkg.sha512"
+    },
+    "Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Core/1.0.0": {
       "type": "project",
